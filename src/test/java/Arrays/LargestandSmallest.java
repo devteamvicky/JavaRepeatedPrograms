@@ -18,7 +18,7 @@ public class LargestandSmallest {
 			}
 		}
 		System.out.println("largestNum in the array : "+largestNum);
-		System.out.println("smallestNum in the array : "+smallestNum);
+		System.out.println("smallestNum in the array :"+smallestNum);
 
 	}
 
